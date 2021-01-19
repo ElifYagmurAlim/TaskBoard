@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\YY\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\DELL\source\repos\YY\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\DELL\source\repos\YY\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\YY\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\YY\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\DELL\source\repos\YY\DataLibrary\obj\Debug\DataLibrary.pdb

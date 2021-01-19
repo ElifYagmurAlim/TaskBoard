@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\YY\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\DELL\source\repos\YY\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\DELL\source\repos\YY\CommonLibrary\bin\Debug\DataLibrary.dll
+C:\Users\DELL\source\repos\YY\CommonLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\DELL\source\repos\YY\CommonLibrary\obj\Debug\CommonLibrary.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\YY\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\YY\CommonLibrary\obj\Debug\CommonLibrary.csproj.CopyComplete
+C:\Users\DELL\source\repos\YY\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\DELL\source\repos\YY\CommonLibrary\obj\Debug\CommonLibrary.pdb

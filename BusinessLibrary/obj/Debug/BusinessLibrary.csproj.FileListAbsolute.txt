@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\YY\BusinessLibrary\obj\Debug\BusinessLibrary.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\YY\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\YY\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+C:\Users\DELL\source\repos\YY\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+C:\Users\DELL\source\repos\YY\BusinessLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\DELL\source\repos\YY\BusinessLibrary\bin\Debug\DataLibrary.dll
+C:\Users\DELL\source\repos\YY\BusinessLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\DELL\source\repos\YY\BusinessLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\DELL\source\repos\YY\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CopyComplete
+C:\Users\DELL\source\repos\YY\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+C:\Users\DELL\source\repos\YY\BusinessLibrary\obj\Debug\BusinessLibrary.pdb
