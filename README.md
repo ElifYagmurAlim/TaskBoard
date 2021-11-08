@@ -1,7 +1,6 @@
 # TaskBoard
 
-![2](https://user-images.githubusercontent.com/64834857/140811425-0ec2c848-599e-4f03-9398-c0774b71c1ea.png)
-![1](https://user-images.githubusercontent.com/64834857/140811433-b75c4548-7383-4818-9ccc-3f707d14e58b.png)
+![2](https://user-images.githubusercontent.com/64834857/140811425-0ec2c848-599e-4f03-9398-c0774b71c1ea.png) ![1](https://user-images.githubusercontent.com/64834857/140811433-b75c4548-7383-4818-9ccc-3f707d14e58b.png)
 ![image_KiviatGraph_ScreenShot](https://user-images.githubusercontent.com/64834857/140811453-0cc0e4fc-945b-4cdd-b837-f9f4358af980.png)
 ![image_Normalizasyon](https://user-images.githubusercontent.com/64834857/140811466-1af5f353-66ac-4482-81cf-03d38cd93bc4.png)
 
